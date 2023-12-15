@@ -1,0 +1,13 @@
+* {
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 2.5;
+}
+
+.container {
+    font-size: medium;
+}
+
+img {
+    align-items: center;
+}
